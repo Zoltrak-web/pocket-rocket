@@ -1,0 +1,50 @@
+Moonlighter's Pocket Rocket
+Copyright (c) 2026 the Pocket Rocket authors
+https://github.com/Zoltrak-web/pocket-rocket
+
+This project has two licenses: one for the content and one for the code.
+
+1. CONTENT — CC BY-NC-SA 4.0
+
+The medical content (cards, orders, notes, tables and other text) is licensed
+under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License.
+  Summary:    https://creativecommons.org/licenses/by-nc-sa/4.0/
+  Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Credit it as: "Moonlighter's Pocket Rocket
+(https://github.com/Zoltrak-web/pocket-rocket), CC BY-NC-SA 4.0".
+
+Guidelines, books and other sources named on the cards belong to their own
+authors. This license does not cover them.
+
+2. CODE — MIT License
+
+The software (HTML, CSS, JavaScript, service worker and build scripts) is
+licensed under the MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+3. MEDICAL DISCLAIMER
+
+This is an unverified alpha reference for licensed physicians and supervised
+trainees. It can contain errors. It does not replace clinical judgment, the
+product label, the Philippine National Formulary or local protocols. Check
+every dose before use. You use it at your own risk. The authors accept no
+liability for any outcome from its use, to the extent the law allows.
